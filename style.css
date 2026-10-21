@@ -22,6 +22,8 @@ hr{
     color: #163B56;
 }
 
+
+
 button{
     border: none;
     background-color: #287CA5;
@@ -42,19 +44,11 @@ button{
     border-radius: 8px;
 }
 
-.card h2 {
-    color: #163B56;
-}
-
-.card p {
-    color: #82939E;
-}
-
 .card button {
     background-color: #287CA5;
     color: white;
     border: none;
-    padding: 10px 20px;
+    padding: 10px 30px;
     border-radius: 6px;
     cursor: pointer;
 }
